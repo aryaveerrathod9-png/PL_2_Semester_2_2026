@@ -7,7 +7,7 @@
 
 # Student Details
 
-**Name:** Advait Pravin Raut  
+**Name Aryaveer Rathod 
 **Division:** SOC - 03  
-**Roll No.:** 07  
+**Roll No.:** 20
 **Enrollment Number:** `Can't write here for privacy concerns`
